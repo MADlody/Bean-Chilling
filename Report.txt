@@ -1,0 +1,444 @@
+============================================================
+			REPORT INVOICE
+============================================================
+Total Earnings          : RM10010.00
+Earnings from Beans     : RM9190.00
+Earnings from Drinks    : RM820.00
+
+Total Order(s)          : 79.00
+Total Bean(s) Ordered   : 39.00
+Total Drink(s) Ordered  : 40.00
+
+Biggest Drink Order        : Blonde Vanilla Latte	(13 in one order)
+Smallest Drink Order       : Capuccino	(1 in one order)
+Biggest Bean Order         : EXCELCSA (300g)	 (20 in one order)
+Smallest Bean Order        : ARABICA (300g)	 (1 in one order)
+
+Best Payment Method : E-WALLET
+
+Total Delivery Orders     : 20
+Normal Delivery Orders    : 13
+Fast Delivery Orders      : 7
+Total Delivery Fee            : RM134
+Total Additional Fee Charged  : RM14
+
+Total Bulk Orders : 3
+============================================================
+
+
+UPDATED:
+
+ Name         : Dinie
+ Phone Number : 0112503452
+ Address      : bwh jambatan
+
+UPDATED:
+
+ Name         : Bell
+ Phone Number : 0122502341
+ Address      : labuan
+
+========================================
+		RAW ORDERS
+========================================
+
+
+-----------------Drinks----------------------
+
+ | Id 01 | Fast Delivery: false |
+
+ Name         : Dinie
+ Phone Number : 0112503452
+ Address      : bwh jambatan
+
+Drink Order: 
+[ Size: L, Code:1, Quantity:8 ]
+
+ TOTAL PRICE : RM160.46
+
+ Payment Type: E-Wallet
+ Username      : DINIELOVELY
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+----------------Beans----------------------
+
+ | Id 02 | Fast Delivery: false |
+
+ Name         : Mira
+ Phone Number : 0112501540
+ Address      : LEP 5/1
+
+Beans Order
+[ Type:G, Code:2, Quantity:1 ]
+
+ TOTAL PRICE : RM156.64
+
+ Payment Type: E-Wallet
+ Username      : MEERA
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 03 | Fast Delivery: true |
+
+ Name         : Bell
+ Phone Number : 0122502341
+ Address      : labuan
+
+Drink Order: 
+[ Size: S, Code:6, Quantity:1 ]
+
+ TOTAL PRICE : RM27.56
+
+ Payment Type: Card
+ Card Number      : 4770282107490168
+ Card Holder Name : NABIL IKHWAN BIN AMSIN
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 04 | Fast Delivery: false |
+
+ Name         : Amirul
+ Phone Number : 011251232
+ Address      : LEP 8/4
+
+Drink Order: 
+[ Size: S, Code:8, Quantity:3 ]
+
+ TOTAL PRICE : RM57.40
+
+ Payment Type: E-Wallet
+ Username      : AMIRULHUSNA
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+----------------Beans----------------------
+
+ | Id 05 | Fast Delivery: true |
+
+ Name         : Adam
+ Phone Number : 014215140
+ Address      : LEP 5/1
+
+Beans Order
+[ Type:W, Code:1, Quantity:10 ]
+
+ TOTAL PRICE : RM2106.72
+
+ Payment Type: Card
+ Card Number      : 98798945670989780
+ Card Holder Name : ADAM FITRI BIN ABDULLAH
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 06 | Fast Delivery: false |
+
+ Name         : Meora
+ Phone Number : 0132501282
+ Address      : LEP 1/3
+
+Drink Order: 
+[ Size: M, Code:3, Quantity:13 ]
+
+ TOTAL PRICE : RM272.08
+
+ Payment Type: Cash
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+----------------Beans----------------------
+
+ | Id 07 | Fast Delivery: false |
+
+ Name         : Alia
+ Phone Number : 0152501230
+ Address      : LEP 5/4
+
+Beans Order
+[ Type:G, Code:2, Quantity:1 ]
+
+ TOTAL PRICE : RM139.04
+
+ Payment Type: E-Wallet
+ Username      : ALIASARA
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 08 | Fast Delivery: false |
+
+ Name         : Bella
+ Phone Number : 0122504241
+ Address      : LEP 7/11
+
+Drink Order: 
+[ Size: S, Code:2, Quantity:4 ]
+
+ TOTAL PRICE : RM95.40
+
+ Payment Type: Card
+ Card Number      : 4234282107492268
+ Card Holder Name : NABILA IKHWAN BINTI AMSIN
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 09 | Fast Delivery: true |
+
+ Name         : Meor
+ Phone Number : 0142503242
+ Address      : LEP 8/2
+
+Drink Order: 
+[ Size: L, Code:4, Quantity:1 ]
+
+ TOTAL PRICE : RM33.23
+
+ Payment Type: E-Wallet
+ Username      : MADLODY
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+----------------Beans----------------------
+
+ | Id 10 | Fast Delivery: true |
+
+ Name         : Danial
+ Phone Number : 0123327589
+ Address      : LEP 4/1
+
+Beans Order
+[ Type:G, Code:2, Quantity:4 ]
+
+ TOTAL PRICE : RM646.72
+
+ Payment Type: Card
+ Card Number      : 98798987090989780
+ Card Holder Name : DANIAL ALI BIN MAD ALI
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 11 | Fast Delivery: true |
+
+ Name         : Fahim
+ Phone Number : 0182357640
+ Address      : LEP 6/2
+
+Drink Order: 
+[ Size: M, Code:7, Quantity:1 ]
+
+ TOTAL PRICE : RM26.50
+
+ Payment Type: Cash
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 12 | Fast Delivery: false |
+
+ Name         : Nurul
+ Phone Number : 0123454234
+ Address      : LEP 5/3
+
+Drink Order: 
+[ Size: M, Code:6, Quantity:1 ]
+
+ TOTAL PRICE : RM25.18
+
+ Payment Type: E-Wallet
+ Username      : NUR
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+----------------Beans----------------------
+
+ | Id 13 | Fast Delivery: false |
+
+ Name         : Alif
+ Phone Number : 0173285234
+ Address      : LEP 1/2
+
+Beans Order
+[ Type:W, Code:4, Quantity:2 ]
+
+ TOTAL PRICE : RM381.64
+
+ Payment Type: Card
+ Card Number      : 3123487655432985
+ Card Holder Name : ALIF AFDAHAL BIN MUHAMMAD MURSYID
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 14 | Fast Delivery: false |
+
+ Name         : Naqib
+ Phone Number : 0197737343
+ Address      : PUJ 3/1
+
+Drink Order: 
+[ Size: S, Code:3, Quantity:3 ]
+
+ TOTAL PRICE : RM69.96
+
+ Payment Type: Card
+ Card Number      : 678523459876
+ Card Holder Name : MUHAMMAD MIQHAEL MAQEEB BIN MIKHAEL
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 15 | Fast Delivery: true |
+
+ Name         : Sum
+ Phone Number : 0114567890
+ Address      : PUJ 4/1
+
+Drink Order: 
+[ Size: M, Code:5, Quantity:1 ]
+
+ TOTAL PRICE : RM23.32
+
+ Payment Type: Cash
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+----------------Beans----------------------
+
+ | Id 16 | Fast Delivery: true |
+
+ Name         : Ting
+ Phone Number : 0194467890
+ Address      : PUJ 2/3
+
+Beans Order
+[ Type:W, Code:1, Quantity:20 ]
+
+ TOTAL PRICE : RM4206.72
+
+ Payment Type: Card
+ Card Number      : 8765345676541234
+ Card Holder Name : LEE TING WEI
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+
+----------------Beans----------------------
+
+ | Id 17 | Fast Delivery: false |
+
+ Name         : Wong
+ Phone Number : 0142456754
+ Address      : PUJ 1/5
+
+Beans Order
+[ Type:G, Code:1, Quantity:1 ]
+
+ TOTAL PRICE : RM259.44
+
+ Payment Type: Cash
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 18 | Fast Delivery: false |
+
+ Name         : Afeeqah
+ Phone Number : 0185456785
+ Address      : PUJ 2/4
+
+Drink Order: 
+[ Size: S, Code:3, Quantity:1 ]
+
+ TOTAL PRICE : RM27.56
+
+ Payment Type: Cash
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 19 | Fast Delivery: false |
+
+ Name         : Jarjit
+ Phone Number : 0173747573
+ Address      : PUJ 2/3
+
+Drink Order: 
+[ Size: L, Code:2, Quantity:1 ]
+
+ TOTAL PRICE : RM30.74
+
+ Payment Type: Cash
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------Drinks----------------------
+
+ | Id 20 | Fast Delivery: false |
+
+ Name         : Gunasigaran
+ Phone Number : 0123238484
+ Address      : PUJ 5/4
+
+Drink Order: 
+[ Size: M, Code:4, Quantity:2 ]
+
+ TOTAL PRICE : RM54.38
+
+ Payment Type: E-Wallet
+ Username      : GUNASIGARANDA
+
+
+++++++++++++++++++++++++++++++++++++++++++++
